@@ -1,0 +1,8 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/hai/Desktop/make'
+cc     ./src/main.c   -o main
+cc      -o .o
+cc     ./src/test.c   -o test
+gcc  ./obj/main  ./obj/.o  ./obj/test  ./obj/.o -o ./build/run
+make: Leaving directory '/home/hai/Desktop/make'
+ 
