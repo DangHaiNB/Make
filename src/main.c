@@ -4,11 +4,11 @@
 
 int main()
 {
-    printf("Plus one: %d\n", foo(10)); //Prints 11 
+    printf("Test: %d\n", test(10)); //Prints 11 
     int i;
     for(i = 1 ; i < 5 ; i++)
     {
-        printf("test\n");
+        printf("Dang Hai Tran\n");
     }
     name();
 	return 0; 
